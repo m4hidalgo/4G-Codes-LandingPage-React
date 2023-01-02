@@ -1,7 +1,7 @@
 import React from "react";
 
 const NavBar = () => {
-	return (<nav className="navbar navbar-expand-lg navbar-dark bg-dark bg-gradient">
+	return (<nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark bg-gradient">
   		<div className="container-fluid">
 			<a className="navbar-brand text-light" href="#">Start Bootstrap</a>
 			<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
